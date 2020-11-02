@@ -23,6 +23,7 @@ html, body {
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
+  outline: none !important;
 }
 
 .watch-slider .slide.slick-center {
